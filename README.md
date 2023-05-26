@@ -1,16 +1,16 @@
 # Rudraksh-Joshi
 This Repository will help you know about me in an structured manner.
 Will be filling soon about me!
-# 1. About me!
+## 1. About me!
 My name is Rudraksh Joshi & I am pursuing my Bachelor's in Electrical Engineering From Sardar Vallabhbhai National Institute of Technology,Surat . I am passionate about WebDev & DevOps. Open to collaborate on Projects. I Believe in Learn By Doing.
 
-# 2. Description
+## 2. Description
 Hello Developers! An open sorce Enthuziast this side.Scroll down to deep dive into my open source contributions and history.
 
-# 3. Stats
-
-# 4. Badges
-# 5. Connect with me!
+## 3. Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RudrakshAtGithub)](https://github.com/RudrakshAtGithub/github-readme-stats)
+## 4. Skills
+## 5. Connect with me
 <a href="https://www.linkedin.com/in/rudraksh-joshi-15202524b/">
     <img align="left" alt="Rudraksh Joshi | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
