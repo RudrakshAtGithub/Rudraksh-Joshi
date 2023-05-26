@@ -3,7 +3,7 @@ This Repository will help you know about me in an structured manner.
 Will be filling soon about me!
 ## 1. About me!
 My name is Rudraksh Joshi & I am pursuing my Bachelor's in Electrical Engineering From Sardar Vallabhbhai National Institute of Technology,Surat . I am passionate about WebDev & DevOps. Open to collaborate on Projects. I Believe in Learn By Doing.
-![](https://github.com/Store/The-IT-Crowd-on-fire.gif)
+![](https://github.com/RudrakshAtGithub/Store/blob/main/The-IT-Crowd-on-fire.gif)
 
 ## 2. Description
 Hello Developers! An open sorce Enthuziast this side.Scroll down to deep dive into my open source contributions and history.
