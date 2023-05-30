@@ -12,11 +12,9 @@ Hello Developers! An open sorce Enthuziast this side.Scroll down to deep dive in
 ## 3. Stats
 [![Rudraksh's GitHub stats](https://github-readme-stats.vercel.app/api?username=RudrakshAtGithub)](https://github.com/RudrakshAtGithub/github-readme-stats)
 ## 4. Skills
-<img src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png" width="80px"/>
-
-<img src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png" width="80px"/>
-
-<img src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png" width="80px"/>
+<img src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png" width="70px"/>&nbsp;&nbsp;
+<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" width="80px"/>&nbsp;&nbsp;
+<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="80px"/>
 
 ## 5. Connect with me
 <a href="https://www.linkedin.com/in/rudraksh-joshi-15202524b/">
