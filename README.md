@@ -1,10 +1,10 @@
-# Rudraksh-Joshi
+# || Rudraksh-Joshi ||
 This Repository will help you know about me in an structured manner.
 Will be filling soon about me!
 ## 1. About me!
 My name is Rudraksh Joshi & I am pursuing my Bachelor's in Electrical Engineering From Sardar Vallabhbhai National Institute of Technology,Surat . I am passionate about WebDev & DevOps. Open to collaborate on Projects. I Believe in Learn By Doing.
-
-![](https://github.com/RudrakshAtGithub/Store/blob/main/The-IT-Crowd-on-fire.gif)
+<br>
+![Sus coder](https://github.com/RudrakshAtGithub/Store/blob/main/The-IT-Crowd-on-fire.gif)
 
 ## 2. Description
 Hello Developers! An open sorce Enthuziast this side.Scroll down to deep dive into my open source contributions and history.
@@ -19,7 +19,7 @@ Hello Developers! An open sorce Enthuziast this side.Scroll down to deep dive in
 <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" width="80px"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" width="80px"/>
 <img src="https://devopedia.org/images/article/100/9335.1538393658.svg" width="80px"/>
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/2048px-Bash_Logo_Colored.svg.png" width="80px">
 ## 5. Connect with me
 <a href="https://www.linkedin.com/in/rudraksh-joshi-15202524b/">
     <img align="left" alt="Rudraksh Joshi | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
