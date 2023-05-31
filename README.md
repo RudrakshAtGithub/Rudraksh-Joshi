@@ -15,6 +15,10 @@ Hello Developers! An open sorce Enthuziast this side.Scroll down to deep dive in
 <img src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png" width="70px"/>&nbsp;&nbsp;
 <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" width="80px"/>&nbsp;&nbsp;
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="80px"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="70px"/>
+<img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" width="80px"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" width="80px"/>
+<img src="https://devopedia.org/images/article/100/9335.1538393658.svg" width="80px"/>
 
 ## 5. Connect with me
 <a href="https://www.linkedin.com/in/rudraksh-joshi-15202524b/">
@@ -26,3 +30,4 @@ Hello Developers! An open sorce Enthuziast this side.Scroll down to deep dive in
   <a href="mailto:rudrakshjoshic@gmail.com">
     <img align="left" alt="Rudraksh Joshi | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
+  
