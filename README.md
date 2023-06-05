@@ -6,7 +6,7 @@ Will be filling soon about me!
 <br>
 My name is Rudraksh Joshi & I am pursuing my Bachelor's in Electrical Engineering From Sardar Vallabhbhai National Institute of Technology,Surat . I am passionate about WebDev & DevOps. Open to collaborate on Projects. I Believe in Learn By Doing.
 <br>
-![Sus coder](https://github.com/RudrakshAtGithub/Store/blob/main/The-IT-Crowd-on-fire.gif)
+https://github.com/RudrakshAtGithub/Store/blob/main/The-IT-Crowd-on-fire.gif
 
 ## 2. Description
 Hello Developers! An open sorce Enthuziast this side.Scroll down to deep dive into my open source contributions and history.
@@ -28,7 +28,3 @@ Hello Developers! An open sorce Enthuziast this side.Scroll down to deep dive in
 <a href="https://twitter.com/RudrakshJoshi14" type="_blank">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
 <a href="https://www.youtube.com/@RudrakshJoshi" type="_blank">![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)</a>  
 
-Holopin board             |  daily.dev card
-:-------------------------:|:-------------------------:
-
-![](https://holopin.io/api/user/board?user=saladmama2652) <a href="https://cloud.appwrite.io/card/644ff827c4865b06e503"><img width="350" src="https://cloud.appwrite.io/v1/cards/cloud?userId=644ff827c4865b06e503" alt="Appwrite Cloud Card" /></a>   |  ![](https://api.daily.dev/devcards/4877d808bba04a2096971a2fa9e34d28.png?r=ibh)
