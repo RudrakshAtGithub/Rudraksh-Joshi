@@ -12,14 +12,14 @@ Will be filling soon about me!
 <br>
 My name is Rudraksh Joshi & I am pursuing my Bachelor's in Electrical Engineering From Sardar Vallabhbhai National Institute of Technology,Surat . I am passionate about WebDev & DevOps. Open to collaborate on Projects. I Believe in Learn By Doing.
 <br>
-![Rudraksh At Github](https://github.com/RudrakshAtGithub/Store/blob/main/The-IT-Crowd-on-fire.gif)
+<img src="https://github.com/RudrakshAtGithub/Store/blob/main/The-IT-Crowd-on-fire.gif">
 
 ## 2. Description
 Hello Developers! An open sorce Enthuziast this side.Scroll down to deep dive into my open source contributions and history.
 
 ## 3. Stats
 [![Rudraksh's GitHub stats](https://github-readme-stats.vercel.app/api?username=RudrakshAtGithub)](https://github.com/RudrakshAtGithub/github-readme-stats)
-## 4. Skills
+## 4. Skills🤖
 <img src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png" width="70px"/>&nbsp;&nbsp;
 <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" width="80px"/>&nbsp;&nbsp;
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="80px"/>
@@ -34,4 +34,17 @@ Hello Developers! An open sorce Enthuziast this side.Scroll down to deep dive in
 <a href="https://twitter.com/RudrakshJoshi14" type="_blank">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
 <a href="https://www.youtube.com/@RudrakshJoshi" type="_blank">![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)</a>  
 <img src="https://komarev.com/ghpvc/?username=RudrakshAtGithub&style=flat-square&color=blue" alt=""/>
+<div align="center">
+<img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+<img src="https://forthebadge.com/images/badges/uses-brains.svg" />
+<img src="https://forthebadge.com/images/badges/powered-by-responsibility.svg" />
+</div>
 
+
+## Contributors
+
+<p align="center"
+  <a href="https://github.com/RudrakshAtGithub/Rudraksh-Joshi">
+  <img src="https://contrib.rocks/image?repo=RudrakshAtGithub/Rudraksh-Joshi" />
+  </a>
+</p>
