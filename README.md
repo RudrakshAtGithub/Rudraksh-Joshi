@@ -1,3 +1,9 @@
+<h1>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Hey There!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
 # || Rudraksh-Joshi ||
 This Repository will help you know about me in an structured manner.
 Will be filling soon about me!
@@ -27,4 +33,5 @@ Hello Developers! An open sorce Enthuziast this side.Scroll down to deep dive in
 <a href="https://RudrakshAtHashnode.hashnode.dev" type="_blank">![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)</a>
 <a href="https://twitter.com/RudrakshJoshi14" type="_blank">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
 <a href="https://www.youtube.com/@RudrakshJoshi" type="_blank">![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)</a>  
+<img src="https://komarev.com/ghpvc/?username=RudrakshAtGithub&style=flat-square&color=blue" alt=""/>
 
