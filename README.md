@@ -1,3 +1,4 @@
+<img src="https://github.com/RudrakshAtGithub/Store/blob/main/RUDRAKSH%20JOSHI.png">
 <h2 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=1000&color=050748&width=435&lines=Watch+Out+!+Watch+Out+!+;Scroll+At+Your+Own+Risk+!" alt="Typing SVG" /></a>
 </h2>
