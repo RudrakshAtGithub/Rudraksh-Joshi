@@ -1,4 +1,5 @@
 <img src="https://github.com/RudrakshAtGithub/Store/blob/main/RUDRAKSH%20JOSHI.png">
+<br>
 <h2 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=1000&color=050748&width=435&lines=Watch+Out+!+Watch+Out+!+;Scroll+At+Your+Own+Risk+!" alt="Typing SVG" /></a>
 </h2>
@@ -10,15 +11,16 @@
 </h1>
 
 # || Rudraksh-Joshi ||
-
-This Repository will help you know about me in an structured manner.
-Will be filling soon about me!
-
+<p>
+  This Repository will help you know about me in an structured manner.
+  Will be filling soon about me!
+</p>
+  
 ## 1. About me!
 
 <h1 align="center">Student, Developer, Open Source Enthusiast</h1>
 <br>
-My name is Rudraksh Joshi & I am pursuing my Bachelor's in Electrical Engineering From Sardar Vallabhbhai National Institute of Technology,Surat . I am passionate about WebDev & DevOps. Open to collaborate on Projects. I Believe in Learn By Doing.
+My name is Rudraksh Joshi & I am pursuing my Bachelor's in Electrical Engineering From Sardar Vallabhbhai National Institute of Technology,Surat . I am passionate about WebDev & DevOps. Open to collaborate Over Hackathons/.
 <br>
 <img src="https://github.com/RudrakshAtGithub/Store/blob/main/The-IT-Crowd-on-fire.gif">
 
@@ -42,6 +44,9 @@ Hello Developers! An open sorce Enthuziast this side.Scroll down to deep dive in
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/2048px-Bash_Logo_Colored.svg.png" width="80px">
 
 ## 5. Connect with me
+<p>
+  If you want to connect with me,please leave a DM in any of the following Socials,would love to collaborate.
+</p>
 
 <a href="https://www.linkedin.com/in/rudraksh-joshi-15202524b/" type="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://RudrakshAtHashnode.hashnode.dev" type="_blank">![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)</a>
