@@ -60,7 +60,7 @@ Hello Developers! An open sorce Enthuziast this side.Scroll down to deep dive in
 <img src="https://devopedia.org/images/article/100/9335.1538393658.svg" width="80px"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/2048px-Bash_Logo_Colored.svg.png" width="80px">
 
-## :busts_in_silhouette: How to reach me
+## How to reach me
 <p>
   If you want to connect with me,please leave a DM in any of the following Socials,would love to collaborate.
 </p>
