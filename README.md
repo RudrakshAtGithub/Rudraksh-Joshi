@@ -18,8 +18,22 @@
   This Repository will help you know about me in an structured manner.
   Will be filling soon about me!
 </p>
+
+<h2>ℹ️ Project info</h2>
+<div>
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/RudrakshAtGithub/RudrakshAtGithub?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
+<img alt="GitHub forks" src="https://img.shields.io/github/forks/RudrakshAtGithub/RudrakshAtGithub?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
+<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/RudrakshAtGithub/RudrakshAtGithub?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
+<img alt="Last commit" src="https://img.shields.io/github/last-commit/RudrakshAtGithub/RudrakshAtGithub?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">
+<!--<img alt="Commit activity" src="https://img.shields.io/github/commit-activity/m/carol42/carol42?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">-->
+<a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/gluten-free.svg" alt="gluten free" height="22px"></a>
+<a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/contains-cat-gifs.svg" alt="contains cat gifs" height="22px"></a>
+<a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/powered-by-electricity.svg" alt="powered by electricity" height="22px"></a>
+</div>
+
+
   
-## 1. About me!
+##  About me!
 
 <h1 align="center">Student, Developer, Open Source Enthusiast</h1>
 <br>
@@ -27,15 +41,15 @@ My name is Rudraksh Joshi & I am pursuing my Bachelor's in Electrical Engineerin
 <br>
 <img src="https://github.com/RudrakshAtGithub/Store/blob/main/The-IT-Crowd-on-fire.gif">
 
-## 2. Description
+##  Description
 
 Hello Developers! An open sorce Enthuziast this side.Scroll down to deep dive into my open source contributions and history.
 
-## 3. Stats
+##  Stats
 
 [![Rudraksh's GitHub stats](https://github-readme-stats.vercel.app/api?username=RudrakshAtGithub)](https://github.com/RudrakshAtGithub/github-readme-stats)
 
-## 4. Skills🤖
+##  Skills🤖
 
 <img src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png" width="70px"/>&nbsp;&nbsp;
 <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" width="80px"/>&nbsp;&nbsp;
@@ -46,7 +60,7 @@ Hello Developers! An open sorce Enthuziast this side.Scroll down to deep dive in
 <img src="https://devopedia.org/images/article/100/9335.1538393658.svg" width="80px"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/2048px-Bash_Logo_Colored.svg.png" width="80px">
 
-## 5. Connect with me
+## :busts_in_silhouette: How to reach me
 <p>
   If you want to connect with me,please leave a DM in any of the following Socials,would love to collaborate.
 </p>
