@@ -1,3 +1,6 @@
+<div id="top"></div>
+
+
 <img src="https://github.com/RudrakshAtGithub/Store/blob/main/RUDRAKSH%20JOSHI.png">
 <br>
 <h2 align="center">
@@ -69,3 +72,5 @@ Hello Developers! An open sorce Enthuziast this side.Scroll down to deep dive in
 <h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=1000&color=FDEE07&width=435&lines=Thanks+For+Your+Visit+!+%F0%9F%99%83;Thanks+For+Your+Visit+!+%F0%9F%99%82" alt="Typing SVG" /></a>
 </h1>
+<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
+<div align="center" ><img alt="" width="100%" src="https://github.com/Carol42/Carol42/blob/main/assets/footer.png"></div>
